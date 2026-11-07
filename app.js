@@ -1,8 +1,8 @@
 const ADMIN_PASSWORD = "adminadmin123mir.com"; // Демо-пароль.
 
 // НАЛАШТУВАННЯ TELEGRAM БОТА
-const BOT_TOKEN = "9060471473:AAGYF4CEJ08vbhphcpv_ql0uSuIyLsfC7o0";
-const CHAT_ID = "6479805543"; // Сюди впишіть числовий ID чату або групи (наприклад, 123456789 або -100...)
+const BOT_TOKEN = "9151681389:AAGEhcUd1FR0oPaDsknQ5GfJqdJRG_8omdw";
+const CHAT_ID = "9071336976"; // Сюди впишіть числовий ID чату або групи (наприклад, 123456789 або -100...)
 
 const DEFAULT_PRODUCTS = [
  {id:"p1",name:"Філадельфія класік",category:"Роли",description:"Лосось, вершковий сир, огірок та ніжний рис.",weight:280,price:300,image:"https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=700&q=80"},
